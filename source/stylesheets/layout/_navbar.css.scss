@@ -40,8 +40,8 @@
 
 /* Navbar standard link */
 .navbar-wagon-link {
-  color: #616668;
-  font-size: 14px;
+  color: $brand-color;
+  font-size: $base-size;
 }
 .navbar-wagon-link:hover {
   color: #da552f;
